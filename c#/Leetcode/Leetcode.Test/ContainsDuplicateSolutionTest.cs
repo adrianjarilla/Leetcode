@@ -1,7 +1,7 @@
 namespace Leetcode.Test
 {
     [TestFixture]
-    public class ContainsDuplicateTest
+    public class ContainsDuplicateSolutionTest
     {
         private ContainsDuplicateSolution _containsDuplicateSolution;
         [SetUp]
